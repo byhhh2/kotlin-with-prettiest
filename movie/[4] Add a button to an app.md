@@ -191,3 +191,45 @@ fun main() {
 
 - `setImageResource()`를 사용하여 `ImageView`에 표시되는 이미지를 변경합니다.
 - `if / else` 표현식이나 `when` 표현식과 같은 제어 흐름 문을 사용하여 앱에서 다양한 사례를 처리합니다(예: 여러 상황에서 다양한 이미지 표시).
+
+<br>
+
+## lemonade 앱 만들기
+
+<br>
+
+- `lemonadeState` 는 레몬에이드의 현재 상태
+- 가능한 상태는 4가지 : `SELECT`, `SQUEEZE`, `DRINK`, `RESTART`
+- 클릭 시에 상태를 변경해야하고, 길게 클릭 시에 squeeze한 횟수를 알려준다.
+- 클릭 시에 바뀐 상태에 맞게 text와 image를 변경해야한다.
+
+1. `setOnClickListener()`을 사용하여 클릭시에 상태 변경, 텍스트 변경, 이미지 변경
+2. `setOnLongClickListener()` 을 사용하여 길게 누르면 squeeze횟수를 보여주기
+
+<br>
+
+### 문자열 리소스 사용
+
+- `res > values > strings.xml`
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello!</string>
+    <string name="submit_label">Submit</string>
+</resources>
+```
+
+```kotlin
+val submitText = getResources().getString(R.string.submit_label)
+```
+
+- 형식 지정
+
+```xml
+<string name="ingredient_tablespoon">%1$d tbsp of %2$s</string>
+```
+
+```kotlin
+getResources().getString(R.string.ingredient_tablespoon, 2, "cocoa powder")
+```
