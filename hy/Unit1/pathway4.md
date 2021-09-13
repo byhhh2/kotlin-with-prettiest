@@ -5,7 +5,7 @@
 ```kotlin
 fun main() {
 
-    &#47; val diceRange = 1..6
+    // val diceRange = 1..6
     val diceRange : IntRange = 1..6
     println("diceRange: ${diceRange}")
 
