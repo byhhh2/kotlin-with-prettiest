@@ -1,7 +1,6 @@
 ### 퀴즈
 
 The type of ViewGroup that helps you arrange the views inside of it in a flexible way is called a ConstraintLayout.
-
 &#62;view를 유연하게 정렬하는데 도움되는 viewGroup의 유형을 'constraintlayout'이라고 함.
 
 In Android, a graphic that can be drawn to the screen is generally referred to as a drawable.
