@@ -1,5 +1,3 @@
-## pathway4
-
 ### RandomDice
 
 ```kotlin
@@ -44,5 +42,3 @@ class Dice2(val numSides: Int) {
     }
 }
 ```
-
- 
