@@ -7,16 +7,16 @@
 <br><br><br> 
 ### 개발자 텍스트 툴 
 
-![이미지](https://developer.android.com/codelabs/basic-android-kotlin-training-create-dice-roller-app-with-button/img/948d74fe1557f26.png)
-Common Attributes > text 밑 도구text 속성  
+![이미지](https://developer.android.com/codelabs/basic-android-kotlin-training-create-dice-roller-app-with-button/img/948d74fe1557f26.png) <br>
+Common Attributes > text 밑 도구text 속성  <br>
 : Design Editor에만 표시되고 앱 실행시 표시 x 
 <br><br><br> 
 ### auto imports 설정
  
 1. File > Settings > Editor > General > Auto Import > Java and Kotlin sections 
-2. Add unambiguous imports on the fly :heavy_check_mark: 
+2. Add unambiguous imports on the fly :heavy_check_mark: <br>
 : import 문 자동 추가 
-3. Optimize imports on the fly (for current project) :heavy_check_mark: 
+3. Optimize imports on the fly (for current project) :heavy_check_mark: <br>
 : 사용되지 않는 import문 삭제
 <br><br><br>  
 ### 버튼 클릭시 동작 추가 리스너 사용
@@ -46,10 +46,10 @@ val toast = Toast.makeText(this, "Dice Rolled!", Toast.LENGTH_SHORT)
 1. View > Tool Windows > Resource Manager를 클릭하거나 Project 창 왼쪽에 있는 Resource Manager 탭을 클릭합니다. 
 2. Resource Manager 아래의 +를 클릭하고 Import Drawables를 선택합니다. 파일 브라우저가 열립니다. 
 3. 파일 가져오기가 완료되면 이미지가 앱의 Resource Manager(app>res>drawable)에 표시됩니다. 
-4. ImageView의 속성에서 Declared Attributes 섹션 > srcCompat 속성 
+4. ImageView의 속성에서 Declared Attributes 섹션 > srcCompat 속성 <br>
 : Design 뷰 내에서만 제공된 이미지를 사용 
 
-> 이미지 설명 설정
+- 이미지 설명 설정
 
 ```kotlin
 diceImage.contentDescription = diceRoll.toString()
@@ -57,6 +57,7 @@ diceImage.contentDescription = diceRoll.toString()
 <br><br><br>   
 --------------------------------------------------
 <br>
+
 ### RandomDice
 
 ```kotlin
