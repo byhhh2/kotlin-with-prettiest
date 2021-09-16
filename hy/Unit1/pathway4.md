@@ -1,3 +1,4 @@
+
 ### 버튼 하드코딩 문자열을 문자열 리소스로 변경
 
 1. component tree 경고 클릭<br>
@@ -55,6 +56,27 @@ val toast = Toast.makeText(this, "Dice Rolled!", Toast.LENGTH_SHORT)
 diceImage.contentDescription = diceRoll.toString()
 ```
 <br><br><br>   
+### ? !!
+변수 타입, 변수명 뒤 사용
+`?` : null 허용 `!!` : null이 아님을 명시
+```kotlin
+var name : String = null	        	//error
+var name : String? = null	
+
+var nameLength : Int = name?.length     //error
+var nameLength : Int? = name?.length
+var nameLength : Int = name!!.length    //error
+    
+name = "Kim"
+var nameLength : Int = name.length      //error 오류라는데 오류안남 왠지모름 
+										//https://yiyj1030.tistory.com/247
+var nameLength : Int? = name?.length
+var nameLength : Int = name!!.length 
+```
+<br><br><br>    
+
+
+
 --------------------------------------------------
 <br>
 
@@ -158,5 +180,3 @@ fun whenAssign(obj: Any): Any {
     return result   
 }
 ```
-
-
