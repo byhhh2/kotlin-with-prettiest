@@ -104,18 +104,21 @@ ex ) `android` 네임스페이스는 Android 시스템에서 정의한 속성을
 
 ### 라디오그룹 - 라디오버튼
 
+
 <br><br><br>
+
 
 ### 뷰 결합 사용  설정 View binding
 앱에 뷰가 추가되고 UI가 복잡해지며 findViewById()보다 뷰에 대한 참조를 편리하게 해줌
 1. Gradle Scripts > build.gradle (Module: Tip_Time.app) > android 섹션에 다음 코드 추가
-``` kotlin
-buildFeatures {
-    viewBinding = true
-}
-```
+    ``` kotlin
+    buildFeatures {
+        viewBinding = true
+    }
+    ```
 2. 'Gradle files have changed since last project sync.'라는 메시지 확인 >  '
 Sync Now' 클릭
+
 
 <br><br><br>
 ### 결합 객체 초기화
@@ -123,18 +126,18 @@ Sync Now' 클릭
 
 - 앱의 각 View마다 findViewById()를 호출하는 대신, 결합 객체를 한 번 만들고 초기화
 - MainActivity.kt의 MainActivity 클래스를 다음 코드로 변경
-```kotlin
-class MainActivity : AppCompatActivity() {
+    ```kotlin
+    class MainActivity : AppCompatActivity() {
 
-    lateinit var binding: ActivityMainBinding                   //1
+        lateinit var binding: ActivityMainBinding                   //1
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        binding = ActivityMainBinding.inflate(layoutInflater)   //2
-        setContentView(binding.root)                            //3
+        override fun onCreate(savedInstanceState: Bundle?) {
+            super.onCreate(savedInstanceState)
+            binding = ActivityMainBinding.inflate(layoutInflater)   //2
+            setContentView(binding.root)                            //3
+        }
     }
-}
-```
+    ```
 1. lateinit var binding: ActivityMainBinding <br>
 클래스에서 결합 객체의 최상위 변수를 선언<br>
 `lateinit` 키워드 : 코드가 변수를 사용하기 전 먼저 초기화할 것임을 확인. 변수를 초기화하지 않으면 앱 비정상 종료 <br>

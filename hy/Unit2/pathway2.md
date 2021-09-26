@@ -34,15 +34,15 @@ Design Editor 에서 나이트 모드 미리보기 가능
 
 
 ### 적응형 아이콘
-API 26(Android 8.0) 이상 에서 적용
-* 관련폴더 <br>
+* API 26(Android 8.0) 이상 에서 적용
+관련폴더 <br>
 > res/drawable-anydpi-v26/ic_lancher_background.xml <br>
 res/drawable-anydpi-v26/ic_launcher_foreground.xml <br>
 res/mipmap-anydpi-v26/ic_launcher.xml<br>
 res/mipmap-anydpi-v26/ic_launcher_round.xml<br>
  
-그 이하 기기는 레거시 런처 아이콘 사용
-* 관련 폴더
+* 그 이하 기기는 레거시 런처 아이콘 사용
+관련 폴더
 > res/mipmap-mdpi/ic_launcher.png   <br>
 res/mipmap-mdpi/ic_launcher_round.png <br>
 res/mipmap-hdpi/ic_launcher.png <br>
@@ -95,7 +95,7 @@ drawable-v24 > ic_launcher_foreground.xml<br>
 
 <br><br><br>
 
- 앱에 아이콘 추가
+### 앱에 아이콘 추가
 1. Resource Manager 탭 > + 버튼 > Vector Asset 선택
 2. Asset Studio 대화상자 > Asset Type 섹션 > Clip Art 선택
 3. Clip Art 섹션에서 아이콘 선택
@@ -137,18 +137,18 @@ UI가 잘리는 문제 해결 : ConstraintLayout를 ScrollView로 감싸기
 ### enter키 누르면 키보드 숨기기
 1. MainActivity 클래스에 handleKeyEvent() 메서드 추가
 
-```kotlin
-private fun handleKeyEvent(view: View, keyCode: Int): Boolean {
-   if (keyCode == KeyEvent.KEYCODE_ENTER) {
-       // Hide the keyboard
-       val inputMethodManager =
-           getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
-       inputMethodManager.hideSoftInputFromWindow(view.windowToken, 0)
-       return true
+   ```kotlin
+   private fun handleKeyEvent(view: View, keyCode: Int): Boolean {
+      if (keyCode == KeyEvent.KEYCODE_ENTER) {
+          // Hide the keyboard
+         val inputMethodManager =
+              getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
+         inputMethodManager.hideSoftInputFromWindow(view.windowToken, 0)
+         return true
+      }
+      return false   
    }
-   return false
-}
-```
+   ```
 
 2. MainActivity 클래스 > onCreate() 에 리스너 설정
    ```kotlin
