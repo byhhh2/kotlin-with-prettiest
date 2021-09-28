@@ -125,7 +125,9 @@ class Dice2(val numSides: Int) {
     }
 }
 ```
-<br><br><br>  
+<br><br><br> 
+<hr><br> 
+
 ### Lucky Dice
 
 ```kotlin
