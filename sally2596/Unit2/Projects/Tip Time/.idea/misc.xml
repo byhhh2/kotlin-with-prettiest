@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/sally/Desktop/Personal Project(Git)/kotlin-with-prettiest/sally2596/Unit2/Projects/Tip Time/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/sally/Desktop/Personal Project(Git)/kotlin-with-prettiest/sally2596/Unit2/Projects/Tip Time/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/sally/Desktop/Personal Project(Git)/kotlin-with-prettiest/sally2596/Unit2/Projects/Tip Time/app/src/main/res/drawable/ic_round_up.xml" value="0.225" />
+        <entry key="..\:/Users/sally/Desktop/Personal Project(Git)/kotlin-with-prettiest/sally2596/Unit2/Projects/Tip Time/app/src/main/res/drawable/ic_service.xml" value="0.225" />
+        <entry key="..\:/Users/sally/Desktop/Personal Project(Git)/kotlin-with-prettiest/sally2596/Unit2/Projects/Tip Time/app/src/main/res/drawable/ic_store.xml" value="0.225" />
+        <entry key="..\:/Users/sally/Desktop/Personal Project(Git)/kotlin-with-prettiest/sally2596/Unit2/Projects/Tip Time/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/sally/Desktop/Personal Project(Git)/kotlin-with-prettiest/sally2596/Unit2/Projects/Tip Time/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.225" />
       </map>
     </option>
   </component>
