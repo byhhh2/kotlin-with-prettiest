@@ -1,4 +1,4 @@
-### <프로젝트 만들기>
+### 프로젝트 만들기
 
 1.앱을 실행할 Android Virtual Device(에뮬레이터)를 만들려면 Tools > AVD Manager를 선택한 다음 AVD Manager를 사용하여 하드웨어 기기 및 시스템 이미지를 선택합니다.
 

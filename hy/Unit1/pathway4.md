@@ -57,8 +57,10 @@ diceImage.contentDescription = diceRoll.toString()
 ```
 <br><br><br>   
 ### ? !!
-변수 타입, 변수명 뒤 사용
-`?` : null 허용 `!!` : null이 아님을 명시
+변수 타입, 변수명 뒤 사용<br>
+`?` : null 허용 <br>
+`!!` : null이 아님을 명시
+
 ```kotlin
 var name : String = null	        	//error
 var name : String? = null	
@@ -76,8 +78,7 @@ var nameLength : Int = name!!.length
 <br><br><br>    
 
 
-
---------------------------------------------------
+<hr>
 <br>
 
 ### RandomDice
@@ -124,7 +125,9 @@ class Dice2(val numSides: Int) {
     }
 }
 ```
-<br><br><br>  
+<br><br><br> 
+<hr><br> 
+
 ### Lucky Dice
 
 ```kotlin
