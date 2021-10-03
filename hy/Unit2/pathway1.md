@@ -7,13 +7,14 @@
  * 변수의 참조가 가리키는 객체의 내부 값은 변경 가능
 
 > 초기화 예시
-```kotlin
-fun main(args: Array<String>){
-    val myArray = arrayListOf("java") 
-    myArray.add("python") 				//참조가 가르키는 객체 내부 변경 가능
-    println("myArray : "$myArray")  	// 출력 : myArray : [java, python] 
-}
-```
+> ```kotlin
+>fun main(args: Array<String>){
+>    val myArray = arrayListOf("java") 
+>    myArray.add("python") 				//참조가 가르키는 객체 내부 변경 가능
+>    println("myArray : "$myArray")  	// 출력 : myArray : [java, python] 
+>}
+>```
+
 <br>
 
 `var` (variable)
@@ -31,8 +32,8 @@ fun main(args: Array<String>){
  						abstract 클래스 또는 open키워드로 표시된 클래스만 상속가능 
 * abstract 추상클래스 : 완전히 구현되지 않아 인스턴스화할 수 없는 클래스
 
-- kotlin.Any : kotlin의 모든 클래스의 공통 슈퍼클래스 
-- `override` 키워드 : 서브 클래스에서 속성과 함수를 재정의
+* kotlin.Any : kotlin의 모든 클래스의 공통 슈퍼클래스 
+* `override` 키워드 : 서브 클래스에서 속성과 함수를 재정의
 
 하위 클래스 호출 시 constructor(생성자)가 호출되어 객체 인스턴스를 초기화함. 
 : constructor는 전달된 인수 등 클래스의 모든 정보에서 인스턴스를 빌드함. 클래스가 상위 클래스에서 속성과 함수를 상속받을 때 constructor는 상위 클래스의 constructor를 호출하여 객체 인스턴스 초기화를 완료함.
