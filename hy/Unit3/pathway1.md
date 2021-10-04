@@ -99,10 +99,10 @@
 ### 암시적 인텐트 implicit intent
 * 추상적이며 시스템에 작업 유형(링크열기, 이메일 작성, 전화 걸기 등)을 알려주고 시스템에서 작업처리방법 파악
 * 설정
-  1. 컴패니언 객체 추가
+  1. [컴패니언 객체](#컴패니언-객체) 추가
   2. view의 context 참조를 가져옴
   3. 인텐트를 구현할 위치에 리스너 설정
-  4. intent를 만들어 뷰(Intent.ACTION_VIEW)와 URI 전달
+  4. intent를 만들어 뷰(Intent.ACTION_VIEW)와 [URI](#uri) 전달
    > 인텐트 유형 <br>
       * CATEGORY_APP_MAPS - 지도 앱 실행 <br>
       * CATEGORY_APP_EMAIL - 이메일 앱 실행<br>
@@ -147,7 +147,7 @@
 companion object {
     const val LETTER ="letter"
     const val SEARCH_PREFIX ="https://www.google.com/search?q="
-    }
+}
 ```
 
 

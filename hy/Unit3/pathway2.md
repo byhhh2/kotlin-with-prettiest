@@ -285,14 +285,3 @@ class WordListFragment : Fragment() {
    (ex : @String/app_name)
 
  
-
-<br><br><br>
-
-### MAD(Modern Android Development) skills
-
-   
-
-```kotlin
- 
-```
- 
