@@ -98,37 +98,37 @@ clark.age = 18
 
     ```
 * Fragment의 메서드 실행
-1. fragment_start.xml 에서 `startFragment`데이터 변수 추가
-2. Fragment 클래스 > `onViewCreated()`에서 데이터 변수를 fragment인스턴스에 결합
-3. fragment_start.xml의 버튼 `onclick` 속성 추가
-```xml 
-<layout ...>
-    <data>
-        <variable
-            name="flavorFragment"
-            type="com.example.cupcake.FlavorFragment" />
-    </data>
+  1. fragment_start.xml 에서 `startFragment`데이터 변수 추가
+  2. Fragment 클래스 > `onViewCreated()`에서 데이터 변수를 fragment인스턴스에 결합
+  3. fragment_start.xml의 버튼 `onclick` 속성 추가
+  ```xml 
+  <layout ...>
+      <data>
+          <variable
+              name="flavorFragment"
+              type="com.example.cupcake.FlavorFragment" />
+      </data>
 
-    <ScrollView ...>
-        <Button
-            android:id="@+id/next_button"
-            android:onClick="@{() -> pickupFragment.goToNextScreen()}"
-            ...  />
-```
-```kotlin
-class StartFragment : Fragment() {
-    ...
-    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        super.onViewCreated(view, savedInstanceState)
+      <ScrollView ...>
+          <Button
+              android:id="@+id/next_button"
+              android:onClick="@{() -> pickupFragment.goToNextScreen()}"
+              ...  />
+  ```
+  ```kotlin
+  class StartFragment : Fragment() {
+      ...
+      override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+          super.onViewCreated(view, savedInstanceState)
 
-        binding?.apply {
-            ...
-            flavorFragment = this@FlavorFragment
-        }
-    }
-    ...
-}
-```
+          binding?.apply {
+              ...
+              flavorFragment = this@FlavorFragment
+          }
+      }
+      ...
+  }
+  ```
 
 
 
@@ -177,7 +177,8 @@ quantity.value ?: 0
     ```xml
     android:text="@{@string/subtotal_price(viewModel.price)}
     ```
-* 설정 : Fragment 클래스 > `onViewCreated()`에서 lifecycleOwner 설정
+* 설정 <br>
+  : Fragment 클래스 > `onViewCreated()`에서 lifecycleOwner 설정
     ```kotlin
     class FlavorFragment : Fragment() {
         ...

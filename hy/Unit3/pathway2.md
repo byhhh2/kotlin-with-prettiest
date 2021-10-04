@@ -6,41 +6,42 @@
 
 <br><br>
 
-### 프래그먼트 상태(Lifecycle.State)
-  - INITIALIZED : 프래그먼트의 새 인스턴스가 인스턴스화됨.
-  - CREATED : 첫 번째 프래그먼트 수명 주기 메서드가 호출됨. 이 상태에서 프래그먼트와 연결된 뷰가 만들어짐.
-  - STARTED : 프래그먼트가 화면에 표시되지만 '포커스'가 없어 사용자 입력에 응답할 수 없음.
-  - RESUMED: 프래그먼트가 표시되고 포커스가 있음.
-  - DESTROYED: 프래그먼트 객체의 인스턴스화가 취소됨.
+### Fragment 상태(Lifecycle.State)
+  - `INITIALIZED` : 프래그먼트의 새 인스턴스가 인스턴스화됨.
+  - `CREATED` : 첫 번째 프래그먼트 수명 주기 메서드가 호출됨. 이 상태에서 프래그먼트와 연결된 뷰가 만들어짐.
+  - `STARTED` : 프래그먼트가 화면에 표시되지만 '포커스'가 없어 사용자 입력에 응답할 수 없음.
+  - `RESUMED` : 프래그먼트가 표시되고 포커스가 있음.
+  - `DESTROYED` : 프래그먼트 객체의 인스턴스화가 취소됨.
 
 
 <br><br><br>
 
-### 프래그먼트 콜백메서드
- - onCreate() : 프래그먼트가 인스턴스화되었고 `CREATED` 상태. 그러나 이에 상응하는 뷰가 아직 만들어지지 않았음.
- - onCreateView() : 레이아웃을 확장함. 프래그먼트가 `CREATED` 상태로 전환됨.
- - **onViewCreated()** : 뷰가 만들어진 후 호출됨. 일반적으로 findViewById()를 호출하여 특정 뷰를 속성에 바인딩. 개별 뷰의 속성 설정 
- - onStart() : 프래그먼트가 `STARTED` 상태로 전환됨.
- - onResume() : 프래그먼트가 `RESUMED` 상태로 전환됨. 포커스 보유.(사용자 입력에 응답할 수 있음).
- - onPause() : 프래그먼트가 `STARTED` 상태로 다시 전환됨. UI가 사용자에게 표시됨.
- - onStop() : 프래그먼트가 `CREATED` 상태로 다시 전환됨. 객체가 인스턴스화되었지만 화면에 표시되지 않음.
- - onDestroyView() : 프래그먼트가 `DESTROYED` 상태로 전환되기 직전 호출됨. 뷰는 메모리에서 삭제되었지만 프래그먼트 객체는 존재함.
- - onDestroy() : 프래그먼트가 `DESTROYED` 상태로 전환됨.
+###  Fragment 콜백메서드
+ - `onCreate()` : 프래그먼트가 인스턴스화되었고 `CREATED` 상태. 그러나 이에 상응하는 뷰가 아직 만들어지지 않았음.
+ - `onCreateView()` : 레이아웃을 확장함. 프래그먼트가 `CREATED` 상태로 전환됨.
+ - **`onViewCreated()`** : 뷰가 만들어진 후 호출됨. 일반적으로 findViewById()를 호출하여 특정 뷰를 속성에 바인딩. 개별 뷰의 속성 설정 
+ - `onStart()` : 프래그먼트가 `STARTED` 상태로 전환됨.
+ - `onResume()` : 프래그먼트가 `RESUMED` 상태로 전환됨. 포커스 보유.(사용자 입력에 응답할 수 있음).
+ - `onPause()` : 프래그먼트가 `STARTED` 상태로 다시 전환됨. UI가 사용자에게 표시됨.
+ - `onStop()` : 프래그먼트가 `CREATED` 상태로 다시 전환됨. 객체가 인스턴스화되었지만 화면에 표시되지 않음.
+ - `onDestroyView()` : 프래그먼트가 `DESTROYED` 상태로 전환되기 직전 호출됨. 뷰는 메모리에서 삭제되었지만 프래그먼트 객체는 존재함.
+ - `onDestroy()` : 프래그먼트가 `DESTROYED` 상태로 전환됨.
 
-![이미지](https://developer.android.com/codelabs/basic-android-kotlin-training-fragments-navigation-component/img/74470aacefa170bd.png?hl=ko)
+
+<img src = "https://developer.android.com/codelabs/basic-android-kotlin-training-fragments-navigation-component/img/74470aacefa170bd.png?hl=ko" style="width:80%; height:80%;">
 
 
 <br><br><br>
 
-### 프래그먼트 생성
-1. 프로젝트 탐색기에서 app을 선택
+### Fragment 생성
+1. 프로젝트 탐색기에서 app 선택
 2. File > New > Fragment > Fragment (Blank) 추가 > 클래스와 레이아웃 파일 생성
 3. 대화상자에서 Fragment Name 설정
 
 <br><br><br>
 
 
-### 프래그먼트 구현
+### Fragment 구현
 1. 뷰 바인딩 클래스 생성 : build.gradle > buildFeatures > viewBinding = true 설정 시 각 레이아웃 파일에 자동 생성
 2. 프래그먼트 클래스에서 바인딩 클래스 참조를 가져와 변수로 지정 <br>
    : onCreateView()메서드 호출 전까지 레이아웃 확장이 불가능하므로 null값을 주어야함 <br>
@@ -134,7 +135,8 @@
 <br><br><br>
 
 ### 탐색 그래프 NavGraph
-: 앱 탐색의 가상 매핑. 화면/프래그먼트는 이동 가능한 대상으로 NavGraph는 각 대상이 관련되는 방식을 xml 파일로 나타낼 수 있음
+* 앱 탐색의 가상 매핑 
+* 화면/프래그먼트는 이동 가능한 대상으로 NavGraph는 각 대상이 관련되는 방식을 xml 파일로 나타낼 수 있음
 <br>
 
 * MainActivity에서 FragmentContainerView 사용
@@ -199,7 +201,6 @@
         holder.button.setOnClickListener {
             val action = LetterListFragmentDirections.actionLetterListFragmentToWordListFragment( letter = holder.button.text.toString())
             holder.view.findNavController().navigate(action)
-
         }
     ```
  
@@ -239,10 +240,10 @@ class MainActivity : AppCompatActivity() {
 
 <br><br><br>
 
-### 프래그먼트에서 인수 가져오기
-1. letterId 변수 생성
+### Fragment에서 인수 가져오기
+1. `letterId` 변수 생성
 2. onCreate() 재정의
-3. 어댑터의 **onViewCreated()**의 activity?.intent?.extras?.getString(LETTER).toString()를 letterId 로 변경
+3. 어댑터의 onViewCreated()의 activity?.intent?.extras?.getString(LETTER).toString()를 letterId 로 변경
 
 ```kotlin
 class WordListFragment : Fragment() {
@@ -284,4 +285,4 @@ class WordListFragment : Fragment() {
 2. nav_graph.xml > 각 프래그먼트의 Attributes > label 설정 : @String/[label]
    (ex : @String/app_name)
 
- 
+ <br> <br> <br>

@@ -81,13 +81,14 @@
 
 ### 고차함수
 함수/람다를 다른 함수로 전달하거나 다른함수에서 함수를 반환
-* forEach
-* map
-* filter
-* sortedWith()  
+* `forEach`
+* `map`
+* `filter`
+* `sortedWith()`  
     ```kotlin
     val peopleNames = listOf("Fred", "Ann", "Barbara", "Joe")
-    peopleNames.sortedWith { str1: String, str2: String -> str1.length - str2.length }          //[Ann, Joe, Fred, Barbara]
+    peopleNames.sortedWith { str1: String, str2: String -> str1.length - str2.length }          
+    //[Ann, Joe, Fred, Barbara]
     ```
 
 <br><br><br>
@@ -95,6 +96,8 @@
 ## 인탠트 intent
 : 실행할 작업을 나타내는 객체. 명령어 집합
 * extra : 숫자, 문자 등 데이터(함수 호출 시 전달하는 인수와 비슷함)
+
+<br><br>
 
 ### 암시적 인텐트 implicit intent
 * 추상적이며 시스템에 작업 유형(링크열기, 이메일 작성, 전화 걸기 등)을 알려주고 시스템에서 작업처리방법 파악

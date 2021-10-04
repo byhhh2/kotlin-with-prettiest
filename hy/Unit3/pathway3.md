@@ -8,7 +8,8 @@
 * 관심사 분리 : Activity, Fragment 등 UI 기반 클래스는 UI 및 OS의 상호작용 처리 로직만 포함해야함.
 * 모델에서 UI 만들기
 <br>
-![image](https://developer.android.com/codelabs/basic-android-kotlin-training-viewmodel/img/53dd5e42f23ffba9.png?hl=ko)
+
+<img src = "https://developer.android.com/codelabs/basic-android-kotlin-training-viewmodel/img/53dd5e42f23ffba9.png?hl=ko" style="width:80%; margin-top: 20px; ">
 
 <br><br><br>
 
@@ -88,7 +89,9 @@ class GameFragment : Fragment() {
 * 연결된 Fragment 분리, Activity 완료 시 소멸. 소멸 직전 `onCleared()` 메서드 호출 
 * Activity/Fragment 소멸 시 `onDetach()`메서드 호출
 
-![이미지](https://developer.android.com/codelabs/basic-android-kotlin-training-viewmodel/img/18e67dc79f89d8a.png)
+<img src = "https://developer.android.com/codelabs/basic-android-kotlin-training-viewmodel/img/18e67dc79f89d8a.png" style="width:80%; height:80%; margin-top: 20px; ">
+
+ 
 
 
 <br><br><br>
@@ -108,7 +111,7 @@ private fun showFinalScoreDialog() {
         .setTitle(getString(R.string.congratulations))
         .setMessage(getString(R.string.you_scored, viewModel.score))
         .setCancelable(false)       //뒤로 버튼으로 대화상자 취소x
-        .setNegativeButton(getString(R.string.exit)) { _, _ -> exitGame() }  //후헹 람다 구문
+        .setNegativeButton(getString(R.string.exit)) { _, _ -> exitGame() }  //후행 람다 구문
         .setPositiveButton(getString(R.string.play_again)) { _, _ -> restartGame() }
         .show()
 }
