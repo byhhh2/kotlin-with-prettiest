@@ -114,65 +114,10 @@ fun main() {
 
 <br><br><br>
 
-###
-
-```kotlin
-
-```
-
-
-
-<br><br><br>
-
-###
-
-
-
-<br><br><br>
-
-###
-
-
-
-<br><br><br>
-
-###
-```kotlin
-
-```
-
-
-
-<br><br><br>
-
-###
-
-
-```kotlin
-
-```
-
-```kotlin
-
-```
-
-
-```kotlin
-
-```
-
-
-
-```kotlin
-
-```
-
-
-
-```kotlin
-
-```
-
+### 코루틴 사용 방법
+1. 사용할 Dispatcher 결정
+2. Dispatcher를 이용해 CoroutineScope 생성
+3. CoroutineScope의 launch 또는 async 에 수행할 코드 블록 작성 
 
 
  
@@ -225,11 +170,5 @@ a. `runBlocking()`에 전달된 람다 <br>
  
 
 
-
-
-* 코루틴 사용 방법
-1. 사용할 Dispatcher 를 결정하고
-2. Dispatcher 를 이용해서 CoroutineScope 만들고
-3. CoroutineScope 의 launch 또는 async 에 수행할 코드 블록을 넘기면 됩니다.
 
 <br><br><br>
