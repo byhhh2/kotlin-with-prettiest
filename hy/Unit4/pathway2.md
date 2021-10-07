@@ -178,8 +178,8 @@ manifests/AndroidManifest.xml > application태그 앞에 권한 선언
 
 * JSON 응답 : 대괄호로 표시된 배열. 배열에는 JSON 객체가 포함됨.
 * JSON 객체 : 중괄호로 묶여있음. 각 객체에는 콜론으로 구분되는 이름-값 쌍의 집합이 포함됨. 
-* 이름 : 따옴표로 묶여 있음.
-* 값 : 숫자, 문자열, 부울, 배열, 객체(JSON 객체) 또는 null
+* name : 따옴표로 묶여 있음.
+* value : 숫자, 문자열, 부울, 배열, 객체(JSON 객체) 또는 null
   
 
 <br><br><br>
@@ -351,8 +351,8 @@ fun bindImage(imgView: ImageView, imgUrl: String?) {
   1. grid_view_item.xml > data > `MarsPhoto` 유형의 변수 추가
   2. ImageView요소 > `app:imageUrl="@{photo.imgSrcUrl}"` 속성 변경
   3. fragment_overview.xml > RecyclerView 요소 추가 <br>
-      app:layoutManager= "androidx.recyclerview.widget.GridLayoutManager"
-      app:spanCount="2" - 한 행에 2개의 열
+      app:layoutManager= "androidx.recyclerview.widget.GridLayoutManager" <br>
+      app:spanCount="2" - 한 행에 2개의 열<br>
       android:clipToPadding="false" - 내부 콘텐츠를 패딩에 맞춰 자르지 않도록 설정
       
   4. 미리보기 설정 <br>
