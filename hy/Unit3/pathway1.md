@@ -81,13 +81,14 @@
 
 ### 고차함수
 함수/람다를 다른 함수로 전달하거나 다른함수에서 함수를 반환
-* forEach
-* map
-* filter
-* sortedWith()  
+* `forEach`
+* `map`
+* `filter`
+* `sortedWith()`  
     ```kotlin
     val peopleNames = listOf("Fred", "Ann", "Barbara", "Joe")
-    peopleNames.sortedWith { str1: String, str2: String -> str1.length - str2.length }          //[Ann, Joe, Fred, Barbara]
+    peopleNames.sortedWith { str1: String, str2: String -> str1.length - str2.length }          
+    //[Ann, Joe, Fred, Barbara]
     ```
 
 <br><br><br>
@@ -96,8 +97,22 @@
 : 실행할 작업을 나타내는 객체. 명령어 집합
 * extra : 숫자, 문자 등 데이터(함수 호출 시 전달하는 인수와 비슷함)
 
+<br><br>
+
 ### 암시적 인텐트 implicit intent
 * 추상적이며 시스템에 작업 유형(링크열기, 이메일 작성, 전화 걸기 등)을 알려주고 시스템에서 작업처리방법 파악
+* 설정
+  1. [컴패니언 객체](#컴패니언-객체) 추가
+  2. view의 context 참조를 가져옴
+  3. 인텐트를 구현할 위치에 리스너 설정
+  4. intent를 만들어 뷰(Intent.ACTION_VIEW)와 [URI](#uri) 전달
+   > 인텐트 유형 <br>
+      * CATEGORY_APP_MAPS - 지도 앱 실행 <br>
+      * CATEGORY_APP_EMAIL - 이메일 앱 실행<br>
+      * CATEGORY_APP_GALLERY - 갤러리(사진) 앱 실행<br>
+      * ACTION_SET_ALARM - 백그라운드에서 알람 설정<br>
+      * ACTION_DIAL - 전화 걸기<br>
+  5. context 객체에서 `startActivity()`메서드 호출 intent 전달
 
 
 
@@ -111,47 +126,134 @@
   3. intent를 만들어 context와 클래스 이름 전달
   4. intent의 putExtra 메서드 호출
   5. context 객체에서 `startActivity()`메서드 호출 intent 전달
-    ```kotlin
-    
+   ```kotlin
+    override fun onBindViewHolder(holder: LetterViewHolder, position: Int) {
+        val item = list.get(position)
+        holder.button.text = item.toString()
+
+        holder.button.setOnClickListener {
+            val context = holder.view.context
+            val intent = Intent(context, DetailActivity::class.java)
+            intent.putExtra(DetailActivity.LETTER, holder.button.text.toString())
+            context.startActivity(intent)
+        }
+    }
     ```
 
 
-
-
-
 <br><br><br>
-  
 
 ### 컴패니언 객체  
-
-
-
-<br><br><br>
-
-###  
-
-
-
-<br><br><br>
-
-###  
-
-
-
-<br><br><br>
-
-###  
-
-
-
-
-
-<br><br><br>
-
-
+다른 객체(클래스의 인스턴스)와 비슷
+프로그램 중에는 컴패니언 객체의 인스턴스는 하나만 존재함(싱글톤 패턴)
 ```kotlin
- 
+companion object {
+    const val LETTER ="letter"
+    const val SEARCH_PREFIX ="https://www.google.com/search?q="
+}
 ```
+
+
+<br><br><br>
+
+### URI 
+* URI(Uniform Resource Identifier) : URL과 URN 포함
+* URL(Uniform Resource Locator) : 웹페이지를 가리키는 문자열
+* URN(Uniform Resource Name) : 전화번호 등
+
+
+
+<br><br><br>
+
+## Activity Lifecycle 활동 생명주기
+* Android : 활동이 한 상태에서 다른 상태로 이동할 때 콜백 메서드을 호출
+* 개발자 : 콜백 메서드를 재정의하여 수명 주기 상태 변경에 응답해 작업 실행
+  ![이미지](https://developer.android.com/codelabs/basic-android-kotlin-training-activity-lifecycle/img/c259ab6beca0ca88.png)
+
+<br><br>
+
+### 콜백 메서드
+* onCreate()
+  - 모든 활동에서 구현해야함
+  - 활동의 일회성 초기화 실행(ex : 레이아웃 확장, 클릭 리스너 정의, 뷰 결합 설정)
+  - 활동이 초기화 된 직후 한 번 호출
+  - onCreate()메서드 실행 시 활동이 생성됨으로 간주
+
+* onStart()
+  - onCreate()메서드 직후 호출
+  - 실행시 활동이 화면에 표시
+  - 여러 번 호출 가능
+  - onStop()메서드와 페어링
+   
+* onResume()
+  - 활동 포커스 제공
+  - 사용자가 상호작용할 수 있도록 활동 준비
+  - 다시 시작할 대상이 없어도 시작 시 호출됨
+  
+* onPause()
+  - 앱에 포커스가 없을 경우 호출됨
+    
+* onStop()
+  - 앱이 화면에 표시 되지 않을 경우 호출됨
+  - 활동이 중지되었지만 객체는 백그라운드 메모리에 존재 
+
+* onDestory()
+  - 호출 시 활동이 완전히 종료되었으며 `Garbage Collection`될 수 있음을 의미 <br>
+    Garbage Collection : 더이상 사용하지 않을 객체의 자동 정리
+  - 앱에서 사용하는 리소스를 삭제하고 메모리를 정리함
+  - onCreate()메서드처럼 단 한 번만 호출됨
+
+* onRestart()
+  - 활동이 백그라운드에서 포그라운드로 돌아올 경우 호출
+
+* onSaveInstanceState()
+  - 활동 소멸시 데이터(번들)를 저장. 저장된 번들은 onCreate(), onRestoreInstanceState에 전달됨<br>
+    : onCreate()메서드는 활동이 다시 시작되면 저장되어있던 번들이 메서드에 전달되어 활동을 다시 생성하고 활동이 새로 시작되었다면 번들은 null 값을 가짐
+  - 활동이 중지된 이후 호출
+  - 앱이 백그라운드로 전환될 때마다 호출
+  - onPause(), onStop() 이후 발생
+  
+   
+* onRestoreInstanceState()
+  - 활동이 다시 생성되는 경우 onStart()메서드 이후 호촐
+
+
+<br><br><br>
+
+### Log 클래스
+: Logcat에 메세지 작성 > Log.[우선순위](로그 태그, "로그 메세지")
+* 우선순위
+  * Log.d() : 디버그 메세지
+  * Log.i() : 정보 메세지
+  * Log.e() : 오류 메세지
+  * Log.w() : 경고 메세지
+  * Log.v() : 자세한 메세지
+* 로그 태그 : Logcat에서 메세지를 쉽게 찾을 수 있는 문자열. 보통 클래스 이름
+* 로그 메세지 : 짧은 문자열
+
+
+
+<br><br><br>
+
+### 컴파일 시간 상수
+* 값이 컴파일 시간에 결정되는 상수 (<-> `val` : 런타임에 할당)
+* `const val`로 표현. 변수명은 '대문자'와 '_' 사용
+* 다음 조건 만족
+  1. 최상위 속성(클래스 생성자에 할당 불가능) or 함수/클래스 내부에서 사용 시 `companion object`선언
+  2. String 등 기본 자료형으로만 선언 가능
+  3. 사용자 지정 getter 불가능
+
+
+<br><br><br>
+
+### Bundle 번들
+* key(문자열) - value(int, boolean 등) 쌍 모음
+* 시스템은 번들을 메모리에 유지함
+* 메서드 : `putInt()`, `putFloat()`, `putString()` 등 
+
+
+
+
 
 
 

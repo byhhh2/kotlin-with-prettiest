@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="000548fa-1079-4492-89cf-2972f7ccce99" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Unit2/pathway1.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit2/pathway1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.github/ISSUE_TEMPLATE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/6.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/6.1.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/6.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_core_core_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_databinding_databinding_adapters_4_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_databinding_databinding_common_4_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_databinding_databinding_runtime_4_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_databinding_viewbinding_4_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__com_google_android_material_material_1_2_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/modules/Dessert_Clicker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/modules/android-basics-kotlin-dessert-clicker-app-starter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/modules/app/Dessert_Clicker.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/generated/ap_generated_sources/debug/out/androidx/databinding/DataBinderMapperImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/generated/ap_generated_sources/debug/out/androidx/databinding/DataBindingComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/generated/ap_generated_sources/debug/out/androidx/databinding/library/baseAdapters/BR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/generated/ap_generated_sources/debug/out/com/example/android/dessertclicker/BR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/generated/ap_generated_sources/debug/out/com/example/android/dessertclicker/DataBinderMapperImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/generated/ap_generated_sources/debug/out/com/example/android/dessertclicker/databinding/ActivityMainBindingImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/generated/data_binding_base_class_source_out/debug/out/com/example/android/dessertclicker/databinding/ActivityMainBinding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/generated/source/buildConfig/debug/com/example/android/dessertclicker/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/generated/source/dataBinding/trigger/debug/com/example/android/dessertclicker/DataBindingInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-am.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-ar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-as.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-az.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-b+sr+Latn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-be.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-bg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-bn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-bs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-cs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-da.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-el.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-en-rAU.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-en-rCA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-en-rGB.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-en-rIN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-en-rXC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-es-rUS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-et.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-eu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-fa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-fi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-fr-rCA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-fr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-gl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-gu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-h360dp-land-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-h480dp-land-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-h720dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-hdpi-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-hi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-hr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-hu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-hy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-in.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-is.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-iw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-ja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-ka.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-kk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-km.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-kn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-ko.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-ky.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-land.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-large-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-ldltr-v21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-lo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-lt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-lv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-mk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-ml.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-mn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-mr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-ms.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-my.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-nb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-ne.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-night-v8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-nl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-or.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-pa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-pl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-port.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-pt-rBR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-pt-rPT.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-pt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-ro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-si.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-sk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-sl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-small-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-sq.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-sr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-sv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-sw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-sw600dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-ta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-te.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-th.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-tl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-tr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-uk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-ur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-uz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-v16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-v17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-v18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-v21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-v22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-v23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-v24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-v25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-v26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-v28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-vi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-w360dp-port-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-w480dp-port-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-watch-v20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-watch-v21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-xlarge-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-zh-rCN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-zh-rHK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-zh-rTW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values-zu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/blame/res/debug/single/layout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/bundle_manifest/debug/bundle-manifest/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/bundle_manifest/debug/bundle-manifest/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/compatible_screen_manifest/debug/out/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/data_binding_artifact/debug/out/com.example.android.dessertclicker-br.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/data_binding_artifact/debug/out/com.example.android.dessertclicker-setter_store.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/data_binding_base_class_log_artifact/debug/out/com.example.android.dessertclicker-binding_classes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/data_binding_base_class_logs_dependency_artifacts/debug/out/androidx.databinding.library.baseAdapters-binding_classes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/data_binding_dependency_artifacts/debug/out/androidx.databinding.library.baseAdapters-br.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/data_binding_dependency_artifacts/debug/out/androidx.databinding.library.baseAdapters-setter_store.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/data_binding_layout_info_type_merge/debug/out/activity_main-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/external_libs_dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/feature_data_binding_base_feature_info/debug/out/all_features.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/dataBindingGenBaseClassesDebug/base_builder_log.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0Kx29Dgpmm3bvL5f8wsiMDA4oLc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/63F6qhQnq0587QUnMnt_hE2mOXQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6xKprfH1tpI7eH0c+_yxehJXkj4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/78UvU5FXKKeJpKCx2L3xic3NcXY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/7jq3QwEjpcOiqzOsCU7yL8g1I90=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/7uBxTrtAp2p_CZRFfWi6TZfF2cE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/DWyaik7HC25iWXAGufbHrmXXZ1U=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/DWzdmL6LSi9axSRjPCtb207yO+0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/DlEfFvuwv3bCoQbzriibxf2754U=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/H84p+FSb3a4LyoixQbZ+bN9faCE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/JRMM4R6pQnI1e+hgexePinPJLng=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/L1xTmLe2giVvXVJ6tQLPmyUH8ko=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LGBZLIUQc1UxUs9qJGXUTmAzjAY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/MZ8moHzraU763V8r5_5RoyOCSbE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/NTV32U9nveSZK9UYhu0qTBxINRk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/P4gUnSywTvmBBbt77Eqdc7eYw1Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/P5RjSfC63YWXCNfs7EDH7vCX9xE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/PnRFKZmxyqJHGmGoPfU0_HK2eTk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/QhTy5KRB1arCfVjx4YiwQ5PgdR0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/RJrnYry13hmvF2IJRnN_h79jHSM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/RonNPojMLYhMCo8UtKfsIjiOOHc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SEXtdxuAWVaXb8ET9XV0eelTcHQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WfEhS6c_1PXi7qEkK0hRuqETcRg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/d5em8xjhe3aML1p7uATOTkVWgzM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dKqEd7YFRbcgT_26eWRgZzQtUXo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/eyQIgrPbDU_jPro0s6DcDUqtl7o=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/iUu6aN56DBRRm4r2ivZaMrbHBWM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/kGmPRIBiQU0IZoFgloQYZRhGj0s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/mKRFZrL2or4cI13QNzNQ8Ewh+SI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/oAFNypKYYM3zfvwDvAJgqX2hasI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/oxRVa8V41ksnvQbw3t4FP4llizE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/q3qqT4fTru2LfLjB5WxM3iwaEe0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ry68a6trz+JhPU5PswSdmPYW+N4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/s6hZCF5E7_IakHP_w_wsdb3c5Zk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/spDTqCK7FdGO2JC_j3UdNz4Awo4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/vh0ubnkRn1uRBkGGuBrpnH+S9bI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/x5ZSa2ZbhghwQq5Zk6obBl9eUIM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/xdqu497rX5hxB6VyIdKAAE23KXE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/z1FgdP+QXGyxmaXx3iPaH0S+oAA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/z8UQNW_xfrFP5cTURZiJMQxekaU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zdAimV5PgzcNDP5bWs6fJI0h71s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/0Kx29Dgpmm3bvL5f8wsiMDA4oLc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/63F6qhQnq0587QUnMnt_hE2mOXQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/6xKprfH1tpI7eH0c+_yxehJXkj4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/78UvU5FXKKeJpKCx2L3xic3NcXY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/7jq3QwEjpcOiqzOsCU7yL8g1I90=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/7uBxTrtAp2p_CZRFfWi6TZfF2cE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/DWyaik7HC25iWXAGufbHrmXXZ1U=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/DWzdmL6LSi9axSRjPCtb207yO+0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/DlEfFvuwv3bCoQbzriibxf2754U=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/H84p+FSb3a4LyoixQbZ+bN9faCE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/JRMM4R6pQnI1e+hgexePinPJLng=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/L1xTmLe2giVvXVJ6tQLPmyUH8ko=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/LGBZLIUQc1UxUs9qJGXUTmAzjAY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/MZ8moHzraU763V8r5_5RoyOCSbE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/NTV32U9nveSZK9UYhu0qTBxINRk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/P4gUnSywTvmBBbt77Eqdc7eYw1Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/P5RjSfC63YWXCNfs7EDH7vCX9xE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/PnRFKZmxyqJHGmGoPfU0_HK2eTk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/QhTy5KRB1arCfVjx4YiwQ5PgdR0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/RJrnYry13hmvF2IJRnN_h79jHSM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/RonNPojMLYhMCo8UtKfsIjiOOHc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/SEXtdxuAWVaXb8ET9XV0eelTcHQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/WfEhS6c_1PXi7qEkK0hRuqETcRg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/d5em8xjhe3aML1p7uATOTkVWgzM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/dKqEd7YFRbcgT_26eWRgZzQtUXo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/eyQIgrPbDU_jPro0s6DcDUqtl7o=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/iUu6aN56DBRRm4r2ivZaMrbHBWM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/kGmPRIBiQU0IZoFgloQYZRhGj0s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/mKRFZrL2or4cI13QNzNQ8Ewh+SI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/oAFNypKYYM3zfvwDvAJgqX2hasI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/oxRVa8V41ksnvQbw3t4FP4llizE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/q3qqT4fTru2LfLjB5WxM3iwaEe0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/ry68a6trz+JhPU5PswSdmPYW+N4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/s6hZCF5E7_IakHP_w_wsdb3c5Zk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/spDTqCK7FdGO2JC_j3UdNz4Awo4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/vh0ubnkRn1uRBkGGuBrpnH+S9bI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/x5ZSa2ZbhghwQq5Zk6obBl9eUIM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/xdqu497rX5hxB6VyIdKAAE23KXE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/z1FgdP+QXGyxmaXx3iPaH0S+oAA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/z8UQNW_xfrFP5cTURZiJMQxekaU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/zdAimV5PgzcNDP5bWs6fJI0h71s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-port-v13/values-w360dp-port-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/instant_app_manifest/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/javac/debug/classes/androidx/databinding/DataBinderMapperImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/javac/debug/classes/androidx/databinding/DataBindingComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/javac/debug/classes/androidx/databinding/library/baseAdapters/BR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/javac/debug/classes/com/example/android/dessertclicker/BR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/javac/debug/classes/com/example/android/dessertclicker/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/javac/debug/classes/com/example/android/dessertclicker/DataBinderMapperImpl$InnerBrLookup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/javac/debug/classes/com/example/android/dessertclicker/DataBinderMapperImpl$InnerLayoutIdLookup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/javac/debug/classes/com/example/android/dessertclicker/DataBinderMapperImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/javac/debug/classes/com/example/android/dessertclicker/DataBindingInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/javac/debug/classes/com/example/android/dessertclicker/databinding/ActivityMainBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/javac/debug/classes/com/example/android/dessertclicker/databinding/ActivityMainBindingImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/merged_java_res/debug/out.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/merged_manifests/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/metadata_feature_manifest/debug/metadata-feature/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/navigation_json/debug/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/processed_res/debug/out/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/1d57ef4df86828009571323635c40e0b8caeb35a3e5349dbed6d3b528ae5fd00_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/1d57ef4df86828009571323635c40e0b8caeb35a3e5349dbed6d3b528ae5fd00_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/1d57ef4df86828009571323635c40e0b8caeb35a3e5349dbed6d3b528ae5fd00_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/1d57ef4df86828009571323635c40e0b8caeb35a3e5349dbed6d3b528ae5fd00_3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/androidx/databinding/DataBinderMapperImpl.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/androidx/databinding/DataBindingComponent.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/androidx/databinding/library/baseAdapters/BR.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/com/example/android/dessertclicker/BR.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/com/example/android/dessertclicker/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/com/example/android/dessertclicker/DataBinderMapperImpl$InnerBrLookup.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/com/example/android/dessertclicker/DataBinderMapperImpl$InnerLayoutIdLookup.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/com/example/android/dessertclicker/DataBinderMapperImpl.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/com/example/android/dessertclicker/DataBindingInfo.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/com/example/android/dessertclicker/MainActivity$Companion.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/com/example/android/dessertclicker/MainActivity$Dessert.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/com/example/android/dessertclicker/MainActivity$onCreate$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/com/example/android/dessertclicker/MainActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/com/example/android/dessertclicker/databinding/ActivityMainBinding.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/project_dex_archive/debug/out/com/example/android/dessertclicker/databinding/ActivityMainBindingImpl.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_bakery_back.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_cupcake.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_donut.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_eclair.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_froyo.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_gingerbread.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_honeycomb.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_ic_launcher_foreground.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_icecreamsandwich.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_jellybean.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_kitkat.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_lollipop.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_marshmallow.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_nougat.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_oreo.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/drawable_white_box.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/menu_main_menu.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_dessert_clicker.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_dessert_clicker_round.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-af_values-af.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-am_values-am.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-as_values-as.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-az_values-az.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-be_values-be.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-bg_values-bg.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-bn_values-bn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-bs_values-bs.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-ca_values-ca.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-el_values-el.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-en-rAU_values-en-rAU.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-en-rCA_values-en-rCA.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-en-rGB_values-en-rGB.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-en-rIN_values-en-rIN.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-en-rXC_values-en-rXC.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-es-rUS_values-es-rUS.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-et_values-et.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-eu_values-eu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-fa_values-fa.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-fi_values-fi.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-gl_values-gl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-h720dp-v13_values-h720dp-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-hdpi-v4_values-hdpi-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-hi_values-hi.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-hr_values-hr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-hy_values-hy.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-in_values-in.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-kk_values-kk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-km_values-km.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-kn_values-kn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-ky_values-ky.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-land_values-land.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-large-v4_values-large-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-ldltr-v21_values-ldltr-v21.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-lo_values-lo.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-mk_values-mk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-ml_values-ml.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-mn_values-mn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-mr_values-mr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-ms_values-ms.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-my_values-my.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-ne_values-ne.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-night-v8_values-night-v8.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-nl_values-nl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-or_values-or.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-pa_values-pa.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-port_values-port.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-pt_values-pt.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-ro_values-ro.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-si_values-si.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-small-v4_values-small-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-sq_values-sq.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-sw600dp-v13_values-sw600dp-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-te_values-te.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-th_values-th.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-ur_values-ur.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-uz_values-uz.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-v16_values-v16.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-v17_values-v17.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-v18_values-v18.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-v22_values-v22.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-v23_values-v23.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-v24_values-v24.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-v25_values-v25.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-v26_values-v26.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-v28_values-v28.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-w480dp-port-v13_values-w480dp-port-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-watch-v20_values-watch-v20.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-watch-v21_values-watch-v21.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-xlarge-v4_values-xlarge-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/kotlin/compileDebugKotlin/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/outputs/apk/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/tmp/kotlin-classes/debug/META-INF/app_debug.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/tmp/kotlin-classes/debug/com/example/android/dessertclicker/MainActivity$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/tmp/kotlin-classes/debug/com/example/android/dessertclicker/MainActivity$Dessert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/tmp/kotlin-classes/debug/com/example/android/dessertclicker/MainActivity$onCreate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/build/tmp/kotlin-classes/debug/com/example/android/dessertclicker/MainActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/ic_dessert_clicker-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/java/com/example/android/dessertclicker/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/bakery_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/cupcake.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/donut.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/eclair.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/froyo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/gingerbread.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/honeycomb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/icecreamsandwich.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/jellybean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/kitkat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/lollipop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/marshmallow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/nougat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/oreo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/drawable/white_box.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/menu/main_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/mipmap-anydpi-v26/ic_dessert_clicker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/mipmap-anydpi-v26/ic_dessert_clicker_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/code-of-conduct.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-basics-kotlin-dessert-clicker-app-starter/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.0.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.0.2/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.0.2/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.0.2/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.0.2/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.0.2/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.0.2/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.0.2/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.0.2/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.0.2/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.0.2/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.0.2/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.0.2/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_ktx_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_ktx_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_3_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_3_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_databinding_viewbinding_4_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_2_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_ktx_1_2_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_ktx_2_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_ktx_2_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_ktx_2_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_common_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_common_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_fragment_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_fragment_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_runtime_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_runtime_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_ui_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_ui_ktx_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_2_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Words.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/android-basics-kotlin-words-app-starter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Words.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/navEditor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/wordsapp/LetterAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/wordsapp/LetterListFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/wordsapp/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/wordsapp/WordAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/wordsapp/WordListFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_grid_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_linear_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_letter_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_word_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/layout_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-of-conduct.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pathway2.md" beforeDir="false" afterPath="$PROJECT_DIR$/../pathway2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pathway4.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\hyxxsj\.android\avd\Pixel_3_XL_API_19.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="navigationResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1ylcMENeDgWkcv6LcKLwbXR6xvm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/hyxxsj/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../unscramble_app" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Signing Configs" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Words.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="android-basics-kotlin-words-app-starter" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.android-basics-kotlin-words-app-starter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="000548fa-1079-4492-89cf-2972f7ccce99" name="Default Changelist" comment="" />
+      <created>1632829565107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632829565107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
