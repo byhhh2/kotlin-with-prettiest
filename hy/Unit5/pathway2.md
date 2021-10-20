@@ -1,5 +1,11 @@
 
-###
+### Room의 기본 구성요소
+<img src = "https://developer.android.com/codelabs/basic-android-kotlin-training-persisting-data-room/img/33a193a68c9a8e0e.png" style="width:70%; margin-top: 20px;">
+
+* 데이터 항목
+* DAO(데이터 액세스 객체)
+* 데이터베이스 클래스 
+  
 
 
 
@@ -10,7 +16,6 @@
 
 
 
-<img src = " " style="width:70%; margin-top: 20px;">
 
 ```kotlin
 
@@ -154,5 +159,32 @@
 
 ### <퀴즈>
 
-* 111111111<br>
-a. 0000000000000 <br>
+* <br>
+a.  <br>
+
+
+* <br>
+a.  <br>
+
+
+* <br>
+a.  <br>
+
+
+* <br>
+a.  <br>
+
+
+
+4
+134
+34
+2
+1
+13
+onconflictstrategy
+3
+1
+
+
+
