@@ -17,7 +17,7 @@
 * Mapping(매핑) : 데이터베이스의 정보를 표시하고 상호작용하는 방법을 Room에 알려줌
 * `@Entity`주석 
   * 클래스를 데이터베이스의 Entity 클래스로 표시
-  * `tableName` 인수로 테이블의 이름 지정 가능 (`@Entity(tableName = "item")`)
+  * `tableName` 인수로 테이블의 이름 지정 가능 `@Entity(tableName = "item")`
  
 
 <br><br><br>
@@ -32,13 +32,13 @@
   * `abstract` / `open` / `sealed` / `inner` 불가능
 * copy() <br>
   : 일부 속성을 변경하지만 나머지 속성은 변경하지 않고 객체를 복사하는데 사용
-```kotlin
-data class User(val name: String = "", val age: Int = 0)
+  ```kotlin
+  data class User(val name: String = "", val age: Int = 0)
 
-val jack = User(name = "Jack", age = 1)
+  val jack = User(name = "Jack", age = 1)
 
-val olderJack = jack.copy(age = 2)
-```
+  val olderJack = jack.copy(age = 2)
+  ```
 
 
 
@@ -52,7 +52,7 @@ val olderJack = jack.copy(age = 2)
 * 기본 지속성 레이어에서 데이터베이스 작업과 관련된 모든 복잡성을 나머지 애플리케이션으로부터 숨김. 데이터를 사용하는 코드와 별개로 데이터 액세스 레이어를 변경 가능.
 * `@Insert` / `@Delete` / `@Update`  <br>
   : suspend 함수로 생성 (데이터베이스 작업은 실행에 오랜 시간이 걸릴 수 있으므로 별로의 스레드로 실행)
-* @Insert(onConflict = OnConflictStrategy.IGNORE)
+* `@Insert(onConflict = OnConflictStrategy.IGNORE)`
   * onConflict : 충돌이 발생할 경우 Room에 실행할 작업을 알려줌
   * onConflictStrategy 전략
     * ABORT : 기본값. 충돌 시 트랜잭션 롤백
@@ -70,9 +70,10 @@ val olderJack = jack.copy(age = 2)
 3. 컴패니언 객체로 INSTANCE 생성 > null로 초기화 > `@Volatile`주석 추가
 4. 컴패니언 객체 내부에서 Context를 매개변수로 갖는 getDatabase() 메서드 정의 > ItemRoomDatabase 반환
 5. getDatabase() 내에서 INSTANCE를 반환하거나 INSTANCE가 null이면 `synchronized{}` 블록 내에서 초기화. elvis 연산자(?:) 사용
-6. synchronized 블록 내에서 val instance 변수 생성 > Room.databaseBuilder()로 데이터베이스를 가져옴 > applicationContext, ItemRoomDatabase, 데이터베이스 이름 전달 >  빌더 끝 `fallbackToDestructiveMigration()` 추가 > build() 호출
-7. synchronized 블록 내에서 `INSTANCE = instance` 할당 
-8. synchronized 블록 끝에서 instance 반환 
+6. synchronized 블록 내에서 val instance 변수 생성 > Room.databaseBuilder()로 데이터베이스를 가져옴 > applicationContext, ItemRoomDatabase, 데이터베이스 이름 전달
+7. Room.databaseBuilder() 끝에서 `fallbackToDestructiveMigration()` 추가 > build() 호출
+8. synchronized 블록 내에서 `INSTANCE = instance` 할당 
+9. synchronized 블록 끝에서 instance 반환 
 
 
 ```kotlin
@@ -91,10 +92,10 @@ abstract class ItemRoomDatabase : RoomDatabase() {                      //1
                    ItemRoomDatabase::class.java,
                    "item_database"
                )
-                   .fallbackToDestructiveMigration()
+                   .fallbackToDestructiveMigration()                    //7
                    .build()
-               INSTANCE = instance                                      //7
-               return instance                                          //8
+               INSTANCE = instance                                      //8
+               return instance                                          //9
            }
        }
    }
@@ -123,7 +124,7 @@ abstract class ItemRoomDatabase : RoomDatabase() {                      //1
 ### Fragment 업데이트
 1. Fragment 시작 부분에 viewModel 변수 생성 > `by activityViewModels()` 속성 위임
 2. 람다 내에 viewModelFactory 생성자 호출 > database 인스턴스를 사용하여 Dao 인스턴스 전달
-3. lateint 속성 item 변수 생성
+3. lateint 속성의 item 변수 생성
 4. onViewCreated() 재정의 > 클릭 리스너 추가
 
 
