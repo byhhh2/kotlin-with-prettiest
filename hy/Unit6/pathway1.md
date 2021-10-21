@@ -107,7 +107,7 @@ class BlurWorker(ctx: Context, params: WorkerParameters) : Worker(ctx, params) {
 
 <br><br>
 
-> [임시파일 확인] <br>
+> 임시파일 확인 <br>
 > 안드로이드 스튜디오 > View > Tool Windows > Device File Explorer <br>
 > data > data > com.example.background > files > blur_filter_outputs > URI 선택  <br>
 > 목록 새로고침 : 우클릭 > Synchronize 
@@ -217,7 +217,7 @@ internal fun applyBlur(blurLevel: Int) {
 ```
 <br><br>
 
-> [WorkRequest 에 작업 요청 체인 추가]
+> WorkRequest 에 작업 요청 체인 추가
 > ```kotlin
 > val continuation = workManager.beginWith(workA)
 > continuation.then(workB) 
