@@ -20,6 +20,6 @@
 | 2021.10.08 ~ 2021.10.14 | <a href="https://developer.android.com/courses/android-basics-kotlin/unit-5?hl=ko">Unit 5</a> |
 | 2021.10.14 ~ 2021.10.21 | <a href="https://developer.android.com/courses/android-basics-kotlin/unit-6?hl=ko">Unit 6</a> |
 | 2021.10.21 ~ 2021.11.11 | <a href="https://github.com/kotlin-with-prettiest/kotlin-with-prettiest/issues/25">복습 개인 프로젝트</a> |
-
+| 2021.11.11 ~ 2021.11.19 | <a href="https://six-eye-dd4.notion.site/887f6ac8b157452793cf6caf091f872d">팀프로젝트 기획안 작성</a> |
 
 
